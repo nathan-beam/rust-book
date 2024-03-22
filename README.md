@@ -9,3 +9,5 @@ Tutorials from [The Rust Book](https://doc.rust-lang.org/stable/book/)
     - A Hello World program, using Rust's Cargo package manager
 
  ## Chapter 2
+- [Guessing Game](https://github.com/nathan-beam/rust-book/tree/main/ch02/guessing-game)
+    - A simple numerical guessing game demonstrating `match`, `loop`, and basic error handling
