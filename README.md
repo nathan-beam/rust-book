@@ -15,3 +15,5 @@ Tutorials from [The Rust Book](https://doc.rust-lang.org/stable/book/)
 ## Chapter 3
 - [Variables](https://github.com/nathan-beam/rust-book/tree/main/ch03/variables)
     - Basic varibale operations demostrating mutability and shadowing
+- [Functions](https://github.com/nathan-beam/rust-book/tree/main/ch03/functions)
+    - Basic function calling
