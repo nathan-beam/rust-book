@@ -9,11 +9,12 @@ Tutorials from [The Rust Book](https://doc.rust-lang.org/stable/book/)
     - A Hello World program, using Rust's Cargo package manager
 
  ## Chapter 2
-- [Guessing Game](https://github.com/nathan-beam/rust-book/tree/main/ch02/guessing-game)
+- [Guessing Game](https://github.com/nathan-beam/rust-book/tree/main/ch02/guessing-game/src/main.rs)
     - A simple numerical guessing game demonstrating `match`, `loop`, and basic error handling
 
 ## Chapter 3
-- [Variables](https://github.com/nathan-beam/rust-book/tree/main/ch03/variables)
+- [Variables](https://github.com/nathan-beam/rust-book/tree/main/ch03/variables/src/main.rs)
     - Basic varibale operations demostrating mutability and shadowing
-- [Functions](https://github.com/nathan-beam/rust-book/tree/main/ch03/functions)
+- [Functions](https://github.com/nathan-beam/rust-book/tree/main/ch03/functions/src/main.rs)
     - Basic function calling
+- [Control Flow](https://github.com/nathan-beam/rust-book/tree/main/ch03/branches/src/main.rs)
