@@ -18,3 +18,6 @@ Tutorials from [The Rust Book](https://doc.rust-lang.org/stable/book/)
 - [Functions](https://github.com/nathan-beam/rust-book/tree/main/ch03/functions/src/main.rs)
     - Basic function calling
 - [Control Flow](https://github.com/nathan-beam/rust-book/tree/main/ch03/branches/src/main.rs)
+
+### Practice problems
+- - [Temperature Calculator](https://github.com/nathan-beam/rust-book/blob/main/ch03/practice-temperature-converter/src/main.rs)
