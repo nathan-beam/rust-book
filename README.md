@@ -22,3 +22,4 @@ Tutorials from [The Rust Book](https://doc.rust-lang.org/stable/book/)
 ### Practice problems
 - [Temperature Calculator](https://github.com/nathan-beam/rust-book/blob/main/ch03/practice-temperature-converter/src/main.rs)
 - [Generate first _n_ numbers of the Fibonacci sequence](https://github.com/nathan-beam/rust-book/blob/main/ch03/practice-fibonacci/src/main.rs)
+- [Print the 12 Days of Christmas song](https://github.com/nathan-beam/rust-book/blob/main/ch03/practice-twelve-days-of-christmas/src/main.rs)
