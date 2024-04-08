@@ -20,4 +20,5 @@ Tutorials from [The Rust Book](https://doc.rust-lang.org/stable/book/)
 - [Control Flow](https://github.com/nathan-beam/rust-book/tree/main/ch03/branches/src/main.rs)
 
 ### Practice problems
-- - [Temperature Calculator](https://github.com/nathan-beam/rust-book/blob/main/ch03/practice-temperature-converter/src/main.rs)
+- [Temperature Calculator](https://github.com/nathan-beam/rust-book/blob/main/ch03/practice-temperature-converter/src/main.rs)
+- [Generate first _n_ numbers of the Fibonacci sequence](https://github.com/nathan-beam/rust-book/blob/main/ch03/practice-fibonacci/src/main.rs)
